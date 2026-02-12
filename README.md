@@ -1,2 +1,2 @@
 # ts-react-mini-projects
-A collection of JavaScript mini projects for learning and practice.
+A collection of typescript with react mini projects for learning and practice.
